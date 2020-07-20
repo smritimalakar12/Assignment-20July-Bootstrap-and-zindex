@@ -1,3 +1,14 @@
 1.What is Zindex?
+  Ans:definition of Zindex:Ans. The z-index property specifies the stack order of an element.
+        An element with greater stack order is always in front of an element with a lower stack order.
+           z-index only works on positioned elements (position: absolute, position: relative).
 
 2.Implement  Jumbotron-fluid  using Bootstrap.
+  Ans: Jumbotron-
+This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.
+
+It uses utility classes for typography and spacing to space content out within the larger container.
+
+Fluid jumbotron-
+This is a modified jumbotron that occupies the entire horizontal space of its parent.
+
